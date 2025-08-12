@@ -7,7 +7,7 @@
 <sup>1</sup>CFCS, School of Computer Science, Peking University  
 <sup>2</sup>PKU-AgiBot Lab, <sup>3</sup>PKU-PsiBot Lab, <sup>4</sup>Princeton University  
 
-* and †: Equal Contribution, ✉: Corresponding Author  
+*: Equal Contribution, †: Project Lead, ✉: Corresponding Author  
 
 **Conference on Robot Learning (CoRL) 2025 — Oral**  
 
@@ -19,22 +19,11 @@
 ![](media/fig1.jpg)  
 ______________________________________________________________________
 </div>
+Dexterous grasping in cluttered scenes presents significant challenges due to diverse object geometries, occlusions, and potential collisions. Existing methods primarily focus on single-object grasping or grasp-pose prediction without interaction, which are insufficient for complex, cluttered scenes. Recent vision-language-action models offer a potential solution but require extensive real-world demonstrations, making them costly and difficult to scale. To address these limitations, we revisit the sim-to-real transfer pipeline and develop key techniques that enable zero-shot deployment in reality while maintaining robust generalization.
 
-Dexterous grasping in cluttered scenes presents significant challenges due to diverse object geometries, occlusions, and potential collisions.  
-Existing methods primarily focus on single-object grasping or grasp-pose prediction without interaction, which are insufficient for complex, cluttered scenes.  
-Recent vision-language-action models offer a potential solution but require extensive real-world demonstrations, making them costly and difficult to scale.  
+We propose **ClutterDexGrasp** a two-stage teacher-student framework for closed-loop target-oriented dexterous grasping in cluttered scenes. The framework features a teacher policy trained in simulation using clutter density curriculum learning, incorporating both a novel geometry- and spatially-embedded scene representation and a comprehensive safety curriculum, enabling general, dynamic, and safe grasping behaviors. Through imitation learning, we distill the teacher's knowledge into a student 3D diffusion policy (DP3) that operates on partial point cloud observations.
 
-We revisit the **sim-to-real transfer pipeline** and develop key techniques enabling **zero-shot deployment** in the real world while maintaining robust generalization.
-
-**ClutterDexGrasp** is a **two-stage teacher-student framework** for **closed-loop target-oriented dexterous grasping** in cluttered scenes:  
-
-- **Teacher policy** trained in simulation using **clutter density curriculum learning**.  
-- **Novel scene representation** combining geometry and spatial embeddings.  
-- **Safety curriculum** for collision-minimized behaviors.  
-- **Student policy**: a **3D diffusion policy (DP3)** distilled from the teacher via imitation learning.  
-- Operates on **partial point cloud observations** for robust closed-loop control.
-
-This is, to our knowledge, the **first zero-shot sim-to-real closed-loop system** for target-oriented dexterous grasping in cluttered scenes.
+To the best of our knowledge, this represents the **first zero-shot sim-to-real closed-loop system** for target-oriented dexterous grasping in cluttered scenes, demonstrating robust performance across diverse objects and layouts.
 
 ---
 
