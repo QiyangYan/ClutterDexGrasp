@@ -4,10 +4,8 @@
 [Zeyuan Chen*](https://chenzyn.github.io), [Qiyang Yan*](https://qiyangyan.github.io/web/), [Yuanpei Chen*](https://cypypccpy.github.io/)  
 [Tianhao Wu†](http://tianhaowuhz.github.io/), [Jiyao Zhang†](https://jiyao06.github.io/), [Zihan Ding](https://quantumiracle.github.io/webpage/), [Jinzhou Li](https://kingchou007.github.io/), [Yaodong Yang](https://www.yangyaodong.com/), [Hao Dong✉](https://zsdonghao.github.io/)
 
-
 <sup>1</sup>CFCS, School of Computer Science, Peking University  
 <sup>2</sup>PKU-AgiBot Lab, <sup>3</sup>PKU-PsiBot Lab, <sup>4</sup>Princeton University  
-
 
 * and †: Equal Contribution, ✉: Corresponding Author  
 
