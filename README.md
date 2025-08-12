@@ -1,7 +1,7 @@
 # ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes
 <div align="center">
 
-[Zeyuan Chen*](https://chenzyn.github.io)<sup>1,2</sup>, [**Qiyang Yan\***](https://qiyangyan.github.io/web/)<sup>1,2</sup>, [Yuanpei Chen*](https://cypypccpy.github.io/)<sup>1,3</sup>  
+[Zeyuan Chen*](https://chenzyn.github.io)<sup>1,2</sup>, [Qiyang Yan*](https://qiyangyan.github.io/web/)<sup>1,2</sup>, [Yuanpei Chen*](https://cypypccpy.github.io/)<sup>1,3</sup>  
 [Tianhao Wu†](http://tianhaowuhz.github.io/)<sup>1,2</sup>, [Jiyao Zhang†](https://jiyao06.github.io/)<sup>1,2</sup>, [Zihan Ding](https://quantumiracle.github.io/webpage/)<sup>4</sup>, [Jinzhou Li](https://kingchou007.github.io/)<sup>1,2</sup>, [Yaodong Yang](https://www.yangyaodong.com/)<sup>1,3</sup>, [Hao Dong✉](https://zsdonghao.github.io/)<sup>1,2</sup>  
 
 
