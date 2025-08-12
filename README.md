@@ -6,9 +6,8 @@
 
 
 <sup>1</sup>CFCS, School of Computer Science, Peking University  
-<sup>2</sup>PKU-AgiBot Lab  
-<sup>3</sup>PKU-PsiBot Lab  
-<sup>4</sup>Princeton University  
+<sup>2</sup>PKU-AgiBot Lab, <sup>3</sup>PKU-PsiBot Lab, <sup>4</sup>Princeton University  
+
 
 * and †: Equal Contribution, ✉: Corresponding Author  
 
