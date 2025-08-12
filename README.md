@@ -31,9 +31,8 @@ To the best of our knowledge, this represents the **first zero-shot sim-to-real 
 ## Table of Contents
 1. [Installation](#installation)  
 2. [Usage](#usage)  
-3. [Acknowledgement](#acknowledgement)  
-4. [Check out Our Paper](#check-out-our-paper)  
-5. [License](#license)  
+3. [Check out Our Paper](#check-out-our-paper)  
+4. [License](#license)  
 
 ---
 
@@ -47,15 +46,7 @@ To the best of our knowledge, this represents the **first zero-shot sim-to-real 
 
 ---
 
-## Acknowledgement
-We thank the following open-source projects and datasets for inspiration and support:
-- [DexGraspNet](https://github.com/PKU-Alignment/DexGraspNet)  
-- [IsaacGym](https://developer.nvidia.com/isaac-gym)  
-- [MANO Hand Model](https://mano.is.tue.mpg.de/)  
-
----
-
-## Check out Our Paper
+## Citation
 Our paper is available on [arXiv](https://arxiv.org/abs/2506.14317).  
 If you find our work useful, please consider citing:  
 
