@@ -31,8 +31,7 @@ To the best of our knowledge, this represents the **first zero-shot sim-to-real 
 ## Table of Contents
 1. [Installation](#installation)  
 2. [Usage](#usage)  
-3. [Check out Our Paper](#check-out-our-paper)  
-4. [License](#license)  
+3. [Citation](#check-out-our-paper)  
 
 ---
 
@@ -57,3 +56,5 @@ If you find our work useful, please consider citing:
   booktitle = {Conference on Robot Learning (CoRL)},
   year      = {2025}
 }
+```
+
