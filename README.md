@@ -9,7 +9,7 @@
 
 *: Equal Contribution, †: Project Lead, ✉: Corresponding Author  
 
-**Conference on Robot Learning (CoRL) 2025 — Oral**  
+**Conference on Robot Learning (CoRL) 2025 — <span style="color:red">Oral</span>**
 
 [[Website]](https://clutterdexgrasp.github.io/) • [[arXiv]](https://arxiv.org/abs/2506.14317) • [[Video]](https://www.youtube.com/watch?v=RuSxGEG-nlc) 
 
