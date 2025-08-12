@@ -13,10 +13,7 @@
 
 **Conference on Robot Learning (CoRL) 2025 — Oral**  
 
-[[Website]](https://clutterdexgrasp.github.io/)  
-[[arXiv]](https://arxiv.org/abs/2506.14317)  
-[[Video]](https://www.youtube.com/watch?v=RuSxGEG-nlc)  
-[[Code (coming soon)]](#)  
+[[Website]](https://clutterdexgrasp.github.io/) • [[arXiv]](https://arxiv.org/abs/2506.14317) • [[Video]](https://www.youtube.com/watch?v=RuSxGEG-nlc) • [[Code (coming soon)]](#)  
 
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](#)  
 [<img src="https://img.shields.io/badge/Framework-PyTorch-red.svg"/>](https://pytorch.org/)  
